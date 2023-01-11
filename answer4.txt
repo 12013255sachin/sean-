@@ -1,0 +1,3 @@
+differnece between static and dyanamic website?
+   in static websites format of web page is fixed which delivers information to the client created using HTML and CSS.
+   whereas dynamic websites are those which are more functional and can change the web page contents dynamically while the page is running on client's browser.

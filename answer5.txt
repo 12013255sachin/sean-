@@ -1,0 +1,10 @@
+ Initialize the local directory as a Git repository.
+git init
+Add the files in your new local repository.
+git add <file name>
+Commit the files that you've staged in your local repository.
+git commit -m 'comment changes you have made'
+In Terminal, add the URL for the remote repository where your local repostory will be pushed.
+git remote add origin <remote repository URL>
+Push the changes in your local repository to GitHub.
+git push origin master
