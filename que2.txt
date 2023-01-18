@@ -1,0 +1,1 @@
+javascript is already presen in our browsers where as we needto install nodejs  and also javascript is a language where as nodejs is and enviroment provider for running javascripts

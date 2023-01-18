@@ -1,0 +1,4 @@
+we can use ssh for connecting our pc files to a global server for syncing our files with the server
+the keys for it are 
+git-keygen
+it will generate a ssh key .and in our c drive a folder will be created of ssh and from there we have to copy the id_rsa.pub file data and paste it in our git ssh key .

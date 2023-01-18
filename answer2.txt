@@ -1,0 +1,4 @@
+git init
+git add -a
+git commit -m "this is a comment"
+git remote add origin 

@@ -1,0 +1,1 @@
+. Deploy a static website using the same repo and add screen shot
